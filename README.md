@@ -24,8 +24,8 @@ An organization has assigned parking spaces.
 
 ## Deployment Guide
 
-1. Download [parking-space.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/parking-space.zip)
-2. Import the [parking-space.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/parking-space.zip) Power Platform solution file into Dataverse.
+1. Download [parking-space.zip](https://github.com/FedMake/parking-space/raw/main/solution/v1.0.0/parking-space.zip)
+2. Import the [parking-space.zip](https://github.com/FedMake/parking-space/raw/main/solution/v1.0.0/parking-space.zip) Power Platform solution file into Dataverse.
 
 ## What is a FedMake Accelerator
 
