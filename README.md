@@ -1,10 +1,31 @@
 # Parking Space FedMake Accelerator
 
-Government focused Parking Space FedMake Accelerator Developed at a FedMake Event by Makers within the Federal, Intel, and Dept of Defense organizations.
+![Current Version is 1.0.0](https://img.shields.io/static/v1?label=Current%20Version&message=1.0.0&color=blue)
+![Released on January 20th, 2022](https://img.shields.io/static/v1?label=Released&message=January%2020th,%202022&color=blue)
+
+Parking Space FedMake Accelerator Developed by Makers within the Federal, Intel, and Dept of Defense organizations that address the following requirements:
+
+An organization has assigned parking spaces.
+
+- Limited number of parking.
+- Applications submitted during open enrollments.
+- Spaces assigned based on points based on a forumla.
+
+## Supported M365 Clouds
+
+![Supported in GCC](https://img.shields.io/static/v1?label=GCC&message=Supported&color=brightgreen)
+![Supported in GCCH](https://img.shields.io/static/v1?label=GCCH&message=Supported&color=brightgreen)
+![Supported in DoD](https://img.shields.io/static/v1?label=DoD&message=Supported&color=brightgreen)
+
+## Minimum Licensing Required
+
+![Requires M365](https://img.shields.io/static/v1?label=Microsft%20365&message=G3%20or%20higher&color=blue)
+![Requires Power Apps per User or per App](https://img.shields.io/static/v1?label=Power%20Apps&message=per%20user%20OR%20per%20app&color=blue)
 
 ## Deployment Guide
 
-***Coming Soon***
+1. Download [parking-space.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/parking-space.zip)
+2. Import the [parking-space.zip](https://github.com/FedMake/policy-review/raw/main/solution/v1.0.0/parking-space.zip) Power Platform solution file into Dataverse.
 
 ## What is a FedMake Accelerator
 
